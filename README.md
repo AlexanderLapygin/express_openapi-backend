@@ -20,6 +20,10 @@
 
 [***-openapi-backend***: express](https://github.com/softspiders/express)
 
+## Direct descendants
+
+[***+ react, react-query, react-testing-library, testing***: cra_ts_react-query_rtl_msw_openapi-backend](https://github.com/AlexanderLapygin/cra_ts_react-query_rtl_msw_openapi-backend)
+
 ---
 
 ## Requirements
