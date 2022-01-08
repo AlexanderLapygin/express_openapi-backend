@@ -1,21 +1,24 @@
-[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">
+      <img src="https://avatars.githubusercontent.com/u/47006425?v=4"width="100" height="100"/>
+    </a>
+</div>
 
-# Simplest express application
+# Express service starter supported by mocking from openapi-backend library
 
 
 ## Feature tags
 
 - express
+- openapi-backend
 - starter
 - template
 
 ---
 
-## Direct descendants
+## Direct ancestors
 
-* [express-mongodb](https://github.com/softspiders/express-mongodb)
-* [mongoose-express](https://github.com/softspiders/mongoose-express)
-* [puppeteer-jest](https://github.com/softspiders/puppeteer-jest) - also by code
+[***-openapi-backend***: express](https://github.com/softspiders/express)
 
 ---
 
@@ -44,3 +47,7 @@ node index
 ### License
 
 Licensed under the [MIT license](./LICENSE)
+
+---
+
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
