@@ -11,7 +11,7 @@ app.use(express.json());
 
 // define api
 const api = new OpenAPIBackend({
-  definition: path.join(__dirname, '..', 'openapi.yaml'),
+  definition: path.join(__dirname, '../api', 'openapi.yaml'),
   handlers: {
     validationFail: async (c, req: ExpressReq, res: ExpressRes) => res.status(400).json({ err: c.validation.errors }),
     notFound: async (c, req: ExpressReq, res: ExpressRes) => res.status(404).json({ err: 'not found' }),
