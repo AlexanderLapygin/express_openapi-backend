@@ -37,7 +37,7 @@ yarn
 ## Running
 
 ```sh
-node index
+yarn dev # API running at http://localhost:9000
 ```
 
 ## Authors
